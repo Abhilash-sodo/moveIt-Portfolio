@@ -1,2 +1,2 @@
 # moveIt-Portfolio
-It's a a shipping company 
+It's shipping company 
